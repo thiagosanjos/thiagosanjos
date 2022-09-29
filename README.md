@@ -1,7 +1,10 @@
 # Bem vindo ao meu perfil.
 
-Olá, eu sou o Thiago Santos
+![avatar](https://user-images.githubusercontent.com/114689844/193109915-608884cf-95fb-4d05-affc-d9cf9ff77d12.jpg)
 
+Olá, eu sou o Thiago Santos, eu sou aluno do curso Staart.
+
+Moro em Curitiba, PR 🌐
 ## Meus hoobies
 
 - Jogar videogame

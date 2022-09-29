@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil.
 
-Olá eu sou o Thiago Santos
+Olá, eu sou o Thiago Santos
 
 ## Meus hoobies
 
